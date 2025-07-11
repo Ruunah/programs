@@ -1,0 +1,2 @@
+Microfone (WO Mic Device)
+Alto-falantes (2- High Definition Audio Device)
